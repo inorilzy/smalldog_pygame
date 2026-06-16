@@ -1,0 +1,9 @@
+[project]
+name = "smalldog-pygame-master"
+version = "0.1.0"
+description = "A small pygame runner game about a single dog dodging couples and collecting drumsticks."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pygame>=2.6.1",
+]
